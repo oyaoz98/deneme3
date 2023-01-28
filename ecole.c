@@ -2,7 +2,7 @@
 int main ()
  {
     printf("%s","Oya Selmin Özcan");
-    printf("%s","merhaba");
+    printf("%s","merhaba   \n");
     return 0;
   }
 
